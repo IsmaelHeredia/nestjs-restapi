@@ -1,2 +1,3 @@
-# nestjs-restapi
- Rest API Example in NestJS
+# NestJS Rest API
+
+ Rest API Example in NestJS with JWT
